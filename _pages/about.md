@@ -26,13 +26,18 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 关于我
 
 - *2021.09 - *, 安徽工业大学 商学院，安徽马鞍山，本科
  
 <span class='anchor' id='-lwzl'></span>
 
 
+# 资源
+
+
+<span class='anchor' id='-lwzl'></span>
+# 阅读
 
 
 
@@ -44,5 +49,5 @@ redirect_from:
 
 
 
-<span class='anchor' id='-ryjx'></span>
+
 
