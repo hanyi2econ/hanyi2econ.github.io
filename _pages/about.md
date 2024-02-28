@@ -28,7 +28,7 @@ redirect_from:
 
 # 🎓 学历
 
-- *2021.09 - *, <a href="[https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg](https://www.ahut.edu.cn/images2022/logo_blue.jpg)" width="10pt"></a> 安徽工业大学 商学院，安徽马鞍山，本科
+- *2021.09 - *, 安徽工业大学 商学院，安徽马鞍山，本科
  
 <span class='anchor' id='-lwzl'></span>
 
